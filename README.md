@@ -1,6 +1,9 @@
 # quote-generator
 A simple app that generates an inspirational quote and allows the user to post it to Twitter.
 <br>
+<h1>Live Preview</h1>
+<a href="https://sarahschuller.github.io/quote-generator/" target="blank">Click Here</a>
+<br>
 <h1>Features</h1>
 <ul>
 <li>Clicking the new quote button generates a new random quote.</li>
